@@ -195,7 +195,7 @@ With these newfound bugs, we had effectively breached the heart of the administr
 
 ## **The Impact**
 
-What came next was something we didn't initially foresee. Using the admin access we had just secured, we managed to delete all other admin accounts, effectively taking over the entire organization.
+What came next was something we didn't initially foresee. Using the admin access we had just secured, we had the ability to delete all other admin accounts that we created earlier, effectively taking over the entire organization if we wanted.
 
 ```http
 DELETE /v1/<organization>/users/<userid> HTTP/2
