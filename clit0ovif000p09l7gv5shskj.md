@@ -2,7 +2,7 @@
 title: "Taking Over an Entire Organization - A Journey Through Multiple Bugs"
 datePublished: Mon Jun 12 2023 15:36:47 GMT+0000 (Coordinated Universal Time)
 cuid: clit0ovif000p09l7gv5shskj
-slug: taking-over-an-entire-organization-a-journey-through-multiple-bugs
+slug: taking-over-an-entire-organization
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686584109939/d21a2887-3fa1-4e1b-b4d5-a347212a4960.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686584167263/413b0100-0fb7-47d6-b751-17710af05b26.jpeg
 tags: hacking, hackernews, penetration-testing, bugbounty, bugbountytips
