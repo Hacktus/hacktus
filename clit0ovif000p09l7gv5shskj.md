@@ -1,6 +1,5 @@
 ---
 title: "Taking Over an Entire Organization - A Journey Through Multiple Bugs"
-seoTitle: "Taking Over an Entire Organization - A Journey Through Multiple Bugs"
 datePublished: Mon Jun 12 2023 15:36:47 GMT+0000 (Coordinated Universal Time)
 cuid: clit0ovif000p09l7gv5shskj
 slug: taking-over-an-entire-organization-a-journey-through-multiple-bugs
