@@ -3,6 +3,7 @@ title: "Unveiling the Arcane Art of Intercepting HTTPS Traffic in Desktop Apps &
 datePublished: Thu Feb 22 2024 08:51:44 GMT+0000 (Coordinated Universal Time)
 cuid: clswzi77t000108l4ebrc2fn3
 slug: unveiling-the-arcane-art-of-intercepting-https-traffic-in-desktop-apps-games
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708591948454/40188a28-c04e-4b98-a67b-dee651eda9cc.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708591889097/288fe0af-8df1-483c-935f-aea7159d712f.jpeg
 
 ---
