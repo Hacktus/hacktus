@@ -54,7 +54,7 @@ Access to such an endpoint can drastically alter the game's competitive landscap
 
 **IDORs: Unintended Consequences of Poor Validation 🔄**
 
-One of the funny examples me and my co workers in [Cyrex](https://cyrex.tech/) usually find is that games are often riddled with IDOR vulnerabilities, allowing for unexpected and often exploitative interactions. An example is when a game allows you to make a change or upgrade that should only affect your account but ends up impacting another player's account if the user ID in the request is altered.
+One of the humorous scenarios we often come across in [Cyrex](https://cyrex.tech/) involves an IDOR, where a game lets you execute a modification or enhancement that's supposed to be confined to your account. Yet, if there's a tweak in the user ID within the request, it mistakenly influences another player's account
 
 Consider a scenario where you're supposed to upgrade a building:
 
